@@ -1,4 +1,4 @@
-def using_while
+def using_while(looping_string)
   levitation_force = 6
 
   #your code here
